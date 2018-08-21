@@ -1,0 +1,19 @@
+.top-header a, .top-header p, .top-header h1, .top-header h2,.top-header h3{color:#fff;}
+.top-header>.btn{background: none; color:#fff; border:none;padding:0;}
+.top-header>.btn:hover,.top-header a:hover{background:none;color:rgb(247, 218, 164);}
+.top-header .botaoLogar{ 
+    padding:0;
+    background:none;
+    border:transparent;
+}
+
+.top-header .caret{color:#fff;}
+.top-header .saudacoesUsuario{margin:0 !important;padding-top: 10px !important; 
+    vertical-align: middle !important;}
+.top-header .dropdown-menu{min-width:0;}
+
+.top-header .btn-default:active, 
+.top-header .btn-default.active, 
+.top-header .open > .btn-default.dropdown-toggle{
+    background:transparent; border:transparent;
+}

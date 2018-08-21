@@ -1,0 +1,52 @@
+/* line 2, ../../sass/base.scss */
+body {
+  background: #f5f5f5;
+  min-height: 850px;
+}
+
+/* line 3, ../../sass/base.scss */
+.container-total {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background: #141414;
+  color: #fff;
+}
+
+/* line 4, ../../sass/base.scss */
+.texto-pequeno {
+  font-size: 12px !important;
+}
+
+/* line 5, ../../sass/base.scss */
+.texto-medio {
+  font-size: 16px;
+}
+
+/* line 6, ../../sass/base.scss */
+.titulo-site {
+  margin-right: 10px;
+}
+
+/* line 7, ../../sass/base.scss */
+.marginTopCinqPx {
+  margin-top: 50px;
+}
+
+/* line 8, ../../sass/base.scss */
+.marginBottomVintepx {
+  margin-bottom: 20px;
+}
+
+/* line 9, ../../sass/base.scss */
+.caixaCinza {
+  background: #ccc7c7;
+  padding: 30px 10px;
+  border-radius: 8px;
+  border: 1px solid #000;
+}
+
+/* line 10, ../../sass/base.scss */
+.material-icons {
+  vertical-align: middle;
+}

@@ -1,0 +1,50 @@
+/* line 1, ../../../sass/layout/cabecalho.scss */
+.top-header a, .top-header p, .top-header h1, .top-header h2, .top-header h3 {
+  color: #fff;
+}
+
+/* line 2, ../../../sass/layout/cabecalho.scss */
+.top-header > .btn {
+  background: none;
+  color: #fff;
+  border: none;
+  padding: 0;
+}
+
+/* line 3, ../../../sass/layout/cabecalho.scss */
+.top-header > .btn:hover, .top-header a:hover {
+  background: none;
+  color: #f7daa4;
+}
+
+/* line 4, ../../../sass/layout/cabecalho.scss */
+.top-header .botaoLogar {
+  padding: 0;
+  background: none;
+  border: transparent;
+}
+
+/* line 10, ../../../sass/layout/cabecalho.scss */
+.top-header .caret {
+  color: #fff;
+}
+
+/* line 11, ../../../sass/layout/cabecalho.scss */
+.top-header .saudacoesUsuario {
+  margin: 0 !important;
+  padding-top: 10px !important;
+  vertical-align: middle !important;
+}
+
+/* line 13, ../../../sass/layout/cabecalho.scss */
+.top-header .dropdown-menu {
+  min-width: 0;
+}
+
+/* line 15, ../../../sass/layout/cabecalho.scss */
+.top-header .btn-default:active,
+.top-header .btn-default.active,
+.top-header .open > .btn-default.dropdown-toggle {
+  background: transparent;
+  border: transparent;
+}

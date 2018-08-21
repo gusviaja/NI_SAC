@@ -1,0 +1,13 @@
+@import "compass/utilities";
+
+.cracha{padding:5px; 
+	text-align:center; 
+	max-width:220px; 
+	margin:0 auto; 
+	border:6px solid #c9dad6;
+	@include border-radius(8px);
+	@include box-shadow(black 0px 2px 2px);
+}
+.cracha-body{}
+.cracha-titulo{color:#000 !important;padding:2px; background:#cc9d2b; color:#fff;}
+.cracha-subtitulo{ color:light-blue!important;}
